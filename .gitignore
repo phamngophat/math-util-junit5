@@ -1,0 +1,19 @@
+# Compiled class files
+**/target/
+*.class
+
+# NetBeans IDE files
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbdist/
+.nb-gradle/
+
+# Log and temp files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
