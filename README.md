@@ -1,1 +1,1 @@
-
+[![Math Utility Project (CI included) | © 2026](https://github.com/phamngophat/math-util-junit5/actions/workflows/maven.yml/badge.svg)](https://github.com/phamngophat/math-util-junit5/actions/workflows/maven.yml)
